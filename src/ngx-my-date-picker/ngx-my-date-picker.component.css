@@ -108,28 +108,28 @@
     background: #FFF;
 }
 
-.ngxmdp .header {
+.ngxmdp .headertable {
     width: 100%;
     height: 30px;
     border-radius: 4px 4px 0 0;
     background-color: #FAFAFA;
 }
 
-.ngxmdp .header td {
+.ngxmdp .headertable td {
     vertical-align: middle;
     border: none;
     line-height: 0;
 }
 
-.ngxmdp .header td:nth-child(1) {
+.ngxmdp .headertable td:nth-child(1) {
     padding-left: 4px;
 }
 
-.ngxmdp .header td:nth-child(2) {
+.ngxmdp .headertable td:nth-child(2) {
     text-align: center;
 }
 
-.ngxmdp .header td:nth-child(3) {
+.ngxmdp .headertable td:nth-child(3) {
     padding-right: 4px;
 }
 
